@@ -1,4 +1,4 @@
-package com.freehoon.web.model;
+package com.freehoon.web.menu.model;
 
 public class MenuVO {
 	private int mid;
